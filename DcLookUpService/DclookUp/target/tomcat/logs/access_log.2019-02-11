@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:04:00 -0600] "GET / HTTP/1.1" 200 382 http-bio-8080-exec-1 1603
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:05:52 -0600] "POST /search.do HTTP/1.1" 302 - http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:05:52 -0600] "GET /ret-data.do HTTP/1.1" 200 401 http-bio-8080-exec-6 660
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:05:56 -0600] "POST /newSearch.do HTTP/1.1" 302 - http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:05:56 -0600] "GET /search.do HTTP/1.1" 200 382 http-bio-8080-exec-8 105
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:06:35 -0600] "POST /search.do HTTP/1.1" 302 - http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:06:35 -0600] "GET /ret-data.do HTTP/1.1" 200 401 http-bio-8080-exec-10 43
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:08:12 -0600] "POST /newSearch.do HTTP/1.1" 302 - http-bio-8080-exec-4 5
+0:0:0:0:0:0:0:1 - - [11/Feb/2019:18:08:12 -0600] "GET /search.do HTTP/1.1" 200 382 http-bio-8080-exec-6 11
