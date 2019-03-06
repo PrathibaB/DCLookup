@@ -13,6 +13,12 @@ Pre-requsites:
 Built with :
 Maven - Dependency Management
 
+Technologies Used :
+
+Front End : HTML, CSS, BootStrap
+Back End :Servlets, JSP
+Servers :Tomcat 7
+DBMS :MySQL
 
 About :
 
@@ -32,7 +38,7 @@ NOC team uses Visio files that contain all the data regarding that particular lo
 
 That' when the DCLoookUp idea flashed to put data of all DC's in one place and make it available at finger tips which saves lot of time as the Dc's issues are always critical and has huge impact on business.
 
-DcLookUp is a webpage which is built using HTML5, CSS3, BootStrap3  as a front end. MySQL as RDBMS to store data in tables called Address, LCONinfo, Circuit IDs. JavaServlets and JSP using as backend technology.
+DcLookUp is a webpage which is built using HTML5, CSS3, BootStrap3  as a front end. MySQL as RDBMS to store data in tables called Address, LCONinfo, Circuit IDs and queries written to retrieve data. JavaServlets and JSP using as backend technology.
 
 User can just access the webpage using the URL, and search for desired information there by eliminating the efforts put in searching the data through Visio files.
 
